@@ -1,6 +1,11 @@
-let ma = window.document.getElementsByTagName('main')
-ma = MouseEvent
+var c = document.getElementById('main')
+   c.addEventListener('click',clicar)
+   function clicar () {
+       c.style.background = 'blue'
+   }
+var f = document.getElementById('fundo')
+f.addEventListener('click',clicar2)
+function clicar2 () {
 
-function mouse () {
- ma.
-} 
+f.style.backgroundColor = '#f072a7be'
+}
