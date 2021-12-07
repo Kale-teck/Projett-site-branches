@@ -3,17 +3,18 @@
     font-size: 16px;
 }
 body {
-    background-color: aliceblue;
+    background-color: #a683c2;
 }
 h1 {
     font-size: 25px;
 }
 main {
-    background-color: rgb(249, 249, 250);
+    background-color: rgba(249, 249, 250, 0.815);
+    color: #4d2f66 ;
     width: 450px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgb(0, 0, 0.47);
-    text-align: center;
+    
     border-radius: 5%;
 }
