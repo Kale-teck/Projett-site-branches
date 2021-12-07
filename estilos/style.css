@@ -5,13 +5,17 @@
 body {
     background-color: #a683c2;
 }
+img.logo {
+    width: 75px;
+    height: 75px;
+}
 h1 {
     font-size: 25px;
 }
 main {
     background-color: rgba(249, 249, 250, 0.815);
     color: #4d2f66 ;
-    width: 450px;
+    width: 500px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgb(0, 0, 0.47);
