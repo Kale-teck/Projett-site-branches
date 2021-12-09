@@ -4,23 +4,22 @@ header {
     width: 80%;
     text-align: center;
     border-radius: 10px;
-    margin-top: 60%
+    margin:auto;
 }
 main {
-    border-radius: 10px;
+    border-radius: 15px;
     background-color: burlywood;
-    height: 30%;
-    width: 50%;
+    height: 75%;
+    width: 75%;
     text-align: center;
     margin: auto;
-    margin-top: 5%
+    margin-top: 3%;
 }
 body {
     text-align: center;
+    background-color: rgb(236, 165, 32);
 }
-
-
 img.voltar {
-    width: 75px;
-    height: 75px;
-}
+    width: 60px;
+    height: 60px;
+    float: right;}

@@ -8,6 +8,8 @@ body {
 img.logo {
     width: 75px;
     height: 75px;
+    float: right;
+    
 }
 h1 {
     font-size: 25px;
